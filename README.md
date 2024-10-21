@@ -1,8 +1,8 @@
 # YBI-Foundation-Internship-Projects
 ## Machine Learning Projects
 ## Profile Summary:
-## ~ Yamuna V
-Aspiring Data Scientist | Machine Learning Enthusiast
+## ~ Darshit R
+ | Machine Learning & Data Science learner
 
 ## Project Highlights:
 
