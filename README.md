@@ -15,6 +15,7 @@
 * Tools and technologies used: Python, scikit-learn, pandas, Jupyter Notebook.
 
 ## 2. Mileage Prediction Regression Model:
+![Screenshot 2024-10-21 193618](https://github.com/user-attachments/assets/4ca1f86a-ed82-4606-bea6-be533fb6c310)
 
 * Created a regression model to predict vehicle mileage based on features such as engine specifications and vehicle weight.
 * Conducted thorough exploratory data analysis to identify key factors affecting mileage.
