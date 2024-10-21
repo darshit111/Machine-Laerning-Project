@@ -1,5 +1,5 @@
 # YBI-Foundation-Internship-Projects
-## Machine Learning Projects
+## Data Science & Machine Learning Projects
 ## Profile Quick Summary:
 ## ~ Darshit R
  Machine Learning & Data Science learner
