@@ -24,6 +24,8 @@
 * Tools and technologies used: Python, linear regression, matplotlib, seaborn.
 
 ## 3. Bank Customer Churn Prediction Model:
+![Screenshot 2024-10-21 193629](https://github.com/user-attachments/assets/c142a748-65c1-4d34-b497-2ac53ee23ca6)
+
 
 * Designed a customer churn prediction model for a bank to identify potential churners and take proactive measures.
 * Engineered relevant features and applied classification algorithms to classify churn and non-churn customers.
