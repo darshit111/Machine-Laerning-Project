@@ -7,7 +7,7 @@
 ## Project Highlights:
 
 ## 1. Wine Quality Analysis using Machine Learning:
-![ml_essential_tool](https://github.com/YAMUNAVV/YBI-Foundation-Internship-Projects/assets/124666569/1f167290-a9c2-4440-9d0c-21a2874ead11)
+"C:\Users\Darshit\Pictures\Screenshots\Screenshot 2024-10-21 193603.png"
 
 * Developed a machine learning model to predict the quality of wines based on various attributes.
 * Utilized techniques such as data preprocessing, feature engineering, and ensemble methods to achieve accurate predictions.
