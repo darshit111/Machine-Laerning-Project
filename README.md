@@ -7,6 +7,7 @@
 ## Project Highlights:
 
 ## 1. Wine Quality Analysis using Machine Learning:
+![Screenshot 2024-10-21 193603](https://github.com/user-attachments/assets/b099ceec-f301-49fb-8fc7-96363dc5d512)
 
 * Developed a machine learning model to predict the quality of wines based on various attributes.
 * Utilized techniques such as data preprocessing, feature engineering, and ensemble methods to achieve accurate predictions.
